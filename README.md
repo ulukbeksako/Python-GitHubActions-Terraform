@@ -26,4 +26,4 @@ This project demonstrates a complete CI/CD pipeline for deploying a Python Flask
    ```bash
 	 AWS_ACCESS_KEY_ID
 	 AWS_SECRET_ACCESS_KEY
-3.	Push changes to the main branch to trigger the CI/CD pipeline.
+3. Push changes to the main branch to trigger the CI/CD pipeline.
