@@ -22,8 +22,13 @@ This project demonstrates a complete CI/CD pipeline for deploying a Python Flask
    ```bash
    git clone https://github.com/<your-username>/Python-GitHubActions-Terraform.git
    cd Python-GitHubActions-Terraform
-2.	Set up AWS credentials as secrets in your GitHub repository:
+2. Set up AWS credentials as secrets in your GitHub repository:
    ```bash
 	 AWS_ACCESS_KEY_ID
-	 AWS_SECRET_ACCESS_KEY
+	 AWS_SECRET_ACCESS_KEY ```
 3. Push changes to the main branch to trigger the CI/CD pipeline.
+
+	•	Languages: Python, Bash
+	•	Tools: GitHub Actions, Terraform, Docker
+	•	Cloud Platform: AWS ECS
+	•	Monitoring: Logs generated from AWS CloudWatch
